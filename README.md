@@ -14,3 +14,6 @@ The drop charts are mostly the same, but the rates have been heavily modified. A
 
 #### How to Use?  
 The easiest way to use this is to copy all the code from the file *FULL_DEPLOY_CODE* and paste it into your *game.ini* file, anywhere under the [/script/shootergame.shootergamemode]. Then Save your server and restart it (be sure to warn your players so they dont lose stuff/can land their fliers, all that standard stuff). If you are still stuck on this, there is a lot of additional information out there about editing your game.ini file, just search Google.  
+
+#### This Branch
+This branch is configured to work with the [Triangles mod](http://steamcommunity.com/sharedfiles/filedetails/?id=706319066) from [orionsun](http://steamcommunity.com/profiles/76561198023306710/myworkshopfiles/)
